@@ -49,5 +49,5 @@ Skills: MERN Stack / Blockchain / AWS / Devops /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarul24)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarul24&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anwarul24)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarul24)  
